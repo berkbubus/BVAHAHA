@@ -1,0 +1,16 @@
+# --- Generation pipeline (generation/lets_run.py, generation/validation/emotion_graph.py) ---
+torch==2.2.2
+transformers==4.38.2
+sentencepiece==0.2.1
+accelerate==0.27.2
+requests==2.32.5
+
+# --- LLM-as-a-Judge evaluation (evaluation/*.py) ---
+openai==2.15.0
+python-dotenv==1.2.1
+
+# --- Analysis & plotting (statistic.py, emotion_graph.py) ---
+pandas==2.3.3
+numpy==1.26.4
+seaborn>=0.13.2
+matplotlib>=3.8.4

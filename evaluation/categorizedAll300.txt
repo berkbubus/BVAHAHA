@@ -1,0 +1,1805 @@
+# Joke text removed for the public release (see README, "Data availability").
+# Retained: joke id -> multi-label humor-category assignments.
+
+en_2001
+Cheesy
+Gentle
+Wordplay
+Misdirection
+Political
+
+en_2002
+Playful
+Teasing
+Analogy
+Pop Culture
+
+en_2003
+Absurd
+Gentle
+Faulty Logic
+Everyday Life
+
+en_2004
+Dark Humor
+Sharp
+Wordplay
+Misdirection
+Political
+
+en_2005
+Playful
+Teasing
+Wordplay
+Pop Culture
+
+en_2006
+Satirical
+Sharp
+Analogy
+Pop Culture
+
+en_2007
+Satirical
+Teasing
+Misdirection
+Social Commentary
+
+en_2008
+Satirical
+Sharp
+Analogy
+Political
+
+en_2009
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2010
+Playful
+Teasing
+Analogy
+Pop Culture
+
+en_2011
+Playful
+Teasing
+Exaggeration
+Everyday Life
+
+en_2012
+Playful
+Teasing
+Analogy
+Pop Culture
+
+en_2013
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2014
+Satirical
+Sharp
+Analogy
+Pop Culture
+
+en_2015
+Playful
+Teasing
+Exaggeration
+Everyday Life
+
+en_2016
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2017
+Dark Humor
+Sharp
+Analogy
+Pop Culture
+
+en_2018
+Satirical
+Teasing
+Analogy
+Political
+
+en_2019
+Playful
+Teasing
+Wordplay
+Social Commentary
+
+en_2020
+Playful
+Gentle
+Analogy
+Everyday Life
+
+en_2021
+Dark Humor
+Sharp
+Exaggeration
+Everyday Life
+
+en_2022
+Playful
+Teasing
+Exaggeration
+Everyday Life
+
+en_2023
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2024
+Satirical
+Sharp
+Misdirection
+Political
+
+en_2025
+Satirical
+Sharp
+Exaggeration
+Political
+
+en_2026
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2027
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2028
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2029
+Playful
+Teasing
+Wordplay
+Everyday Life
+
+en_2030
+Satirical
+Sharp
+Analogy
+Political
+
+en_2031
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2032
+Playful
+Gentle
+Wordplay
+Social Commentary
+
+en_2033
+Playful
+Gentle
+Wordplay
+Social Commentary
+
+en_2034
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2035
+Absurd
+Teasing
+Analogy
+Social Commentary
+
+en_2036
+Playful
+Gentle
+Analogy
+Pop Culture
+
+en_2037
+Playful
+Gentle
+Wordplay
+Everyday Life
+
+en_2038
+Satirical
+Sharp
+Exaggeration
+Social Commentary
+
+en_2039
+Playful
+Gentle
+Wordplay
+Pop Culture
+
+en_2040
+Satirical
+Sharp
+Exaggeration
+Social Commentary
+
+en_2041
+Playful
+Teasing
+Misdirection
+Pop Culture
+
+en_2042
+Satirical
+Sharp
+Analogy
+Political
+
+en_2043
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2044
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2045
+Absurd
+Teasing
+Misdirection
+Political
+
+en_2046
+Playful
+Gentle
+Analogy
+Everyday Life
+
+en_2047
+Playful
+Teasing
+Misdirection
+Everyday Life
+
+en_2048
+Playful
+Gentle
+Wordplay
+Everyday Life
+
+en_2049
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2050
+Satirical
+Sharp
+Exaggeration
+Political
+
+en_2051
+Satirical
+Teasing
+Analogy
+Political
+
+en_2052
+Satirical
+Gentle
+Misdirection
+Pop Culture
+
+en_2053
+Absurd
+Teasing
+Misdirection
+Social Commentary
+
+en_2054
+Satirical
+Sharp
+Exaggeration
+Social Commentary
+
+en_2055
+Playful
+Gentle
+Faulty Logic
+Everyday Life
+
+en_2056
+Absurd
+Gentle
+Wordplay
+Political
+
+en_2057
+Satirical
+Sharp
+Exaggeration
+Political
+
+en_2058
+Playful
+Teasing
+Misdirection
+Everyday Life
+
+en_2059
+Dark Humor
+Sharp
+Misdirection
+Everyday Life
+
+en_2060
+Satirical
+Teasing
+Wordplay
+Political
+
+en_2061
+Satirical
+Sharp
+Analogy
+Political
+
+en_2062
+Playful
+Teasing
+Wordplay
+Pop Culture
+
+en_2063
+Satirical
+Sharp
+Misdirection
+Pop Culture
+
+en_2064
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2065
+Playful
+Gentle
+Faulty Logic
+Everyday Life
+
+en_2066
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2067
+Playful
+Teasing
+Misdirection
+Everyday Life
+
+en_2068
+Absurd
+Gentle
+Exaggeration
+Everyday Life
+
+en_2069
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2070
+Playful
+Gentle
+Wordplay
+Pop Culture
+
+en_2071
+Playful
+Teasing
+Exaggeration
+Everyday Life
+
+en_2072
+Satirical
+Teasing
+Analogy
+Pop Culture
+
+en_2073
+Dark Humor
+Teasing
+Misdirection
+Social Commentary
+
+en_2074
+Satirical
+Sharp
+Exaggeration
+Social Commentary
+
+en_2075
+Satirical
+Teasing
+Exaggeration
+Everyday Life
+
+en_2076
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2077
+Dark Humor
+Sharp
+Misdirection
+Political
+
+en_2078
+Satirical
+Teasing
+Misdirection
+Political
+
+en_2079
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2080
+Satirical
+Teasing
+Wordplay
+Social Commentary
+
+en_2081
+Playful
+Teasing
+Exaggeration
+Social Commentary
+
+en_2082
+Playful
+Teasing
+Misdirection
+Everyday Life
+
+en_2083
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2084
+Satirical
+Teasing
+Misdirection
+Social Commentary
+
+en_2085
+Dark Humor
+Teasing
+Misdirection
+Everyday Life
+
+en_2086
+Satirical
+Sharp
+Misdirection
+Pop Culture
+
+en_2087
+Playful
+Teasing
+Exaggeration
+Pop Culture
+
+en_2088
+Satirical
+Teasing
+Misdirection
+Political
+
+en_2089
+Playful
+Gentle
+Faulty Logic
+Social Commentary
+
+en_2090
+Satirical
+Sharp
+Wordplay
+Social Commentary
+
+en_2091
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2092
+Absurd
+Teasing
+Exaggeration
+Everyday Life
+
+en_2093
+Satirical
+Sharp
+Exaggeration
+Social Commentary
+
+en_2094
+Dark Humor
+Sharp
+Analogy
+Political
+
+en_2095
+Playful
+Gentle
+Exaggeration
+Social Commentary
+
+en_2096
+Satirical
+Teasing
+Misdirection
+Social Commentary
+
+en_2097
+Satirical
+Sharp
+Exaggeration
+Pop Culture
+
+en_2098
+Playful
+Teasing
+Exaggeration
+Pop Culture
+
+en_2099
+Playful
+Gentle
+Analogy
+Everyday Life
+
+en_2100
+Satirical
+Teasing
+Analogy
+Political
+
+en_2101
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2102
+Playful
+Gentle
+Wordplay
+Political
+
+en_2103
+Satirical
+Sharp
+Faulty Logic
+Social Commentary
+
+en_2104
+Absurd
+Gentle
+Misdirection
+Social Commentary
+
+en_2105
+Playful
+Teasing
+Wordplay
+Pop Culture
+
+en_2106
+Playful
+Teasing
+Exaggeration
+Everyday Life
+
+en_2107
+Satirical
+Teasing
+Wordplay
+Pop Culture
+
+en_2108
+Satirical
+Sharp
+Exaggeration
+Political
+
+en_2109
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2110
+Playful
+Teasing
+Misdirection
+Pop Culture
+
+en_2111
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2112
+Playful
+Gentle
+Analogy
+Everyday Life
+
+en_2113
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2114
+Dark Humor
+Sharp
+Analogy
+Everyday Life
+
+en_2115
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2116
+Playful
+Teasing
+Misdirection
+Pop Culture
+
+en_2117
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2118
+Satirical
+Sharp
+Exaggeration
+Social Commentary
+
+en_2119
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2120
+Playful
+Teasing
+Analogy
+Social Commentary
+
+en_2121
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2122
+Absurd
+Teasing
+Exaggeration
+Social Commentary
+
+en_2123
+Satirical
+Teasing
+Wordplay
+Social Commentary
+
+en_2124
+Playful
+Gentle
+Misdirection
+Pop Culture
+
+en_2125
+Dark Humor
+Sharp
+Misdirection
+Political
+
+en_2126
+Playful
+Teasing
+Exaggeration
+Pop Culture
+
+en_2127
+Playful
+Gentle
+Wordplay
+Everyday Life
+
+en_2128
+Playful
+Teasing
+Analogy
+Pop Culture
+
+en_2129
+Satirical
+Teasing
+Misdirection
+Pop Culture
+
+en_2130
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2131
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2132
+Playful
+Teasing
+Exaggeration
+Political
+
+en_2133
+Dark Humor
+Teasing
+Misdirection
+Everyday Life
+
+en_2134
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2135
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2136
+Playful
+Gentle
+Faulty Logic
+Everyday Life
+
+en_2137
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2138
+Playful
+Teasing
+Wordplay
+Everyday Life
+
+en_2139
+Satirical
+Sharp
+Analogy
+Pop Culture
+
+en_2140
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2141
+Satirical
+Teasing
+Misdirection
+Political
+
+en_2142
+Playful
+Teasing
+Wordplay
+Political
+
+en_2143
+Playful
+Gentle
+Misdirection
+Pop Culture
+
+en_2144
+Absurd
+Gentle
+Wordplay
+Everyday Life
+
+en_2145
+Satirical
+Sharp
+Exaggeration
+Social Commentary
+
+en_2146
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2147
+Playful
+Teasing
+Exaggeration
+Political
+
+en_2148
+Playful
+Teasing
+Misdirection
+Political
+
+en_2149
+Playful
+Gentle
+Exaggeration
+Social Commentary
+
+en_2150
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2151
+Satirical
+Teasing
+Wordplay
+Political
+
+en_2152
+Satirical
+Teasing
+Misdirection
+Social Commentary
+
+en_2153
+Satirical
+Teasing
+Wordplay
+Political
+
+en_2154
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2155
+Playful
+Teasing
+Exaggeration
+Social Commentary
+
+en_2156
+Absurd
+Sharp
+Exaggeration
+Political
+
+en_2157
+Satirical
+Teasing
+Misdirection
+Everyday Life
+
+en_2158
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2159
+Playful
+Gentle
+Analogy
+Political
+
+en_2160
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2161
+Absurd
+Gentle
+Misdirection
+Everyday Life
+
+en_2162
+Satirical
+Teasing
+Wordplay
+Political
+
+en_2163
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2164
+Playful
+Gentle
+Faulty Logic
+Everyday Life
+
+en_2165
+Playful
+Teasing
+Exaggeration
+Pop Culture
+
+en_2166
+Satirical
+Teasing
+Analogy
+Political
+
+en_2167
+Dark Humor
+Sharp
+Exaggeration
+Pop Culture
+
+en_2168
+Satirical
+Teasing
+Misdirection
+Political
+
+en_2169
+Satirical
+Teasing
+Analogy
+Political
+
+en_2170
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2171
+Playful
+Gentle
+Misdirection
+Political
+
+en_2172
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2173
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2174
+Absurd
+Teasing
+Wordplay
+Everyday Life
+
+en_2175
+Satirical
+Teasing
+Exaggeration
+Political
+
+en_2176
+Satirical
+Teasing
+Wordplay
+Pop Culture
+
+en_2177
+Absurd
+Gentle
+Exaggeration
+Everyday Life
+
+en_2178
+Playful
+Teasing
+Wordplay
+Pop Culture
+
+en_2179
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2180
+Satirical
+Sharp
+Misdirection
+Political
+
+en_2181
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2182
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2183
+Cheesy
+Gentle
+Wordplay
+Pop Culture
+
+en_2184
+Playful
+Gentle
+Misdirection
+Political
+
+en_2185
+Satirical
+Teasing
+Analogy
+Pop Culture
+
+en_2186
+Playful
+Teasing
+Misdirection
+Everyday Life
+
+en_2187
+Playful
+Gentle
+Exaggeration
+Social Commentary
+
+en_2188
+Satirical
+Teasing
+Exaggeration
+Political
+
+en_2189
+Absurd
+Gentle
+Exaggeration
+Everyday Life
+
+en_2190
+Playful
+Gentle
+Misdirection
+Pop Culture
+
+en_2191
+Playful
+Teasing
+Misdirection
+Social Commentary
+
+en_2192
+Satirical
+Teasing
+Misdirection
+Political
+
+en_2193
+Absurd
+Teasing
+Exaggeration
+Political
+
+en_2194
+Playful
+Gentle
+Exaggeration
+Pop Culture
+
+en_2195
+Playful
+Gentle
+Exaggeration
+Pop Culture
+
+en_2196
+Playful
+Teasing
+Wordplay
+Everyday Life
+
+en_2197
+Satirical
+Teasing
+Misdirection
+Pop Culture
+
+en_2198
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2199
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2200
+Playful
+Teasing
+Misdirection
+Everyday Life
+
+en_2201
+Satirical
+Sharp
+Wordplay
+Political
+
+en_2202
+Playful
+Teasing
+Wordplay
+Social Commentary
+
+en_2203
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2204
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2205
+Playful
+Teasing
+Misdirection
+Everyday Life
+
+en_2206
+Satirical
+Sharp
+Misdirection
+Political
+
+en_2207
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2208
+Playful
+Teasing
+Analogy
+Everyday Life
+
+en_2209
+Satirical
+Teasing
+Exaggeration
+Political
+
+en_2210
+Playful
+Teasing
+Misdirection
+Pop Culture
+
+en_2211
+Playful
+Gentle
+Exaggeration
+Pop Culture
+
+en_2212
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2213
+Satirical
+Teasing
+Misdirection
+Social Commentary
+
+en_2214
+Playful
+Gentle
+Misdirection
+Social Commentary
+
+en_2215
+Playful
+Teasing
+Exaggeration
+Everyday Life
+
+en_2216
+Playful
+Teasing
+Exaggeration
+Pop Culture
+
+en_2217
+Playful
+Gentle
+Analogy
+Everyday Life
+
+en_2218
+Playful
+Teasing
+Wordplay
+Pop Culture
+
+en_2219
+Absurd
+Gentle
+Misdirection
+Social Commentary
+
+en_2220
+Satirical
+Teasing
+Exaggeration
+Political
+
+en_2221
+Absurd
+Gentle
+Exaggeration
+Social Commentary
+
+en_2222
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2223
+Satirical
+Teasing
+Wordplay
+Political
+
+en_2224
+Satirical
+Sharp
+Exaggeration
+Social Commentary
+
+en_2225
+Playful
+Teasing
+Wordplay
+Pop Culture
+
+en_2226
+Absurd
+Gentle
+Exaggeration
+Pop Culture
+
+en_2227
+Satirical
+Teasing
+Misdirection
+Social Commentary
+
+en_2228
+Playful
+Gentle
+Analogy
+Pop Culture
+
+en_2229
+Satirical
+Sharp
+Exaggeration
+Political
+
+en_2230
+Satirical
+Teasing
+Analogy
+Political
+
+en_2231
+Satirical
+Sharp
+Analogy
+Social Commentary
+
+en_2232
+Satirical
+Sharp
+Analogy
+Political
+
+en_2233
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2234
+Absurd
+Gentle
+Wordplay
+Social Commentary
+
+en_2235
+Satirical
+Sharp
+Misdirection
+Social Commentary
+
+en_2236
+Playful
+Teasing
+Wordplay
+Pop Culture
+
+en_2237
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2238
+Playful
+Teasing
+Misdirection
+Everyday Life
+
+en_2239
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2240
+Playful
+Gentle
+Exaggeration
+Social Commentary
+
+en_2241
+Satirical
+Teasing
+Exaggeration
+Social Commentary
+
+en_2242
+Playful
+Teasing
+Misdirection
+Everyday Life
+
+en_2243
+Satirical
+Teasing
+Exaggeration
+Pop Culture
+
+en_2244
+Playful
+Gentle
+Wordplay
+Everyday Life
+
+en_2245
+Absurd
+Gentle
+Exaggeration
+Social Commentary
+
+en_2246
+Dark Humor
+Sharp
+Wordplay
+Political
+
+en_2247
+Dark Humor
+Teasing
+Exaggeration
+Everyday Life
+
+en_2248
+Satirical
+Sharp
+Analogy
+Political
+
+en_2249
+Playful
+Gentle
+Wordplay
+Everyday Life
+
+en_2250
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2251
+Playful
+Teasing
+Analogy
+Pop Culture
+
+en_2252
+Playful
+Teasing
+Analogy
+Everyday Life
+
+en_2253
+Satirical
+Teasing
+Wordplay
+Political
+
+en_2254
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2255
+Playful
+Gentle
+Misdirection
+Pop Culture
+
+en_2256
+Dark Humor
+Teasing
+Misdirection
+Social Commentary
+
+en_2257
+Playful
+Gentle
+Wordplay
+Pop Culture
+
+en_2258
+Playful
+Teasing
+Wordplay
+Pop Culture
+
+en_2259
+Absurd
+Gentle
+Exaggeration
+Everyday Life
+
+en_2260
+Playful
+Gentle
+Analogy
+Pop Culture
+
+en_2261
+Satirical
+Teasing
+Wordplay
+Political
+
+en_2262
+Playful
+Gentle
+Exaggeration
+Everyday Life
+
+en_2263
+Absurd
+Gentle
+Wordplay
+Everyday Life
+
+en_2264
+Satirical
+Teasing
+Analogy
+Social Commentary
+
+en_2265
+Playful
+Gentle
+Analogy
+Social Commentary
+
+en_2266
+Playful
+Teasing
+Exaggeration
+Pop Culture
+
+en_2267
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2268
+Playful
+Teasing
+Wordplay
+Everyday Life
+
+en_2269
+Satirical
+Sharp
+Analogy
+Political
+
+en_2270
+Playful
+Gentle
+Misdirection
+Social Commentary
+
+en_2271
+Playful
+Teasing
+Exaggeration
+Everyday Life
+
+en_2272
+Satirical
+Sharp
+Exaggeration
+Social Commentary
+
+en_2273
+Playful
+Gentle
+Exaggeration
+Social Commentary
+
+en_2274
+Playful
+Teasing
+Wordplay
+Pop Culture
+
+en_2275
+Playful
+Gentle
+Exaggeration
+Social Commentary
+
+en_2276
+Playful
+Gentle
+Wordplay
+Everyday Life
+
+en_2277
+Dark Humor
+Teasing
+Misdirection
+Everyday Life
+
+en_2278
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2279
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2280
+Playful
+Gentle
+Wordplay
+Everyday Life
+
+en_2281
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2282
+Absurd
+Gentle
+Misdirection
+Everyday Life
+
+en_2283
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2284
+Absurd
+Gentle
+Faulty Logic
+Everyday Life
+
+en_2285
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2286
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2287
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2288
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2289
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2290
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2291
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2292
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2293
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2294
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2295
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2296
+Playful
+Gentle
+Misdirection
+Everyday Life
+
+en_2297
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2298
+Absurd
+Gentle
+Misdirection
+Everyday Life
+
+en_2299
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+
+en_2300
+Cheesy
+Gentle
+Wordplay
+Everyday Life
+

@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Model weights / caches
+*.safetensors
+*.model
+offload/
+models/
+
+# Runtime state
+api_counter.txt
+
+# Web-scraped validation set (third-party, not redistributed)
+dark_humor_validation.txt
+
+# OS
+.DS_Store
+Thumbs.db
